@@ -11,7 +11,7 @@
   Hey ! I'm <b><a target="_blank" href="https://matthias-petit.fr/">Matthias Petit</a></b>
   <samp align="center"> 
     <br>
-    &gt; I am a full stack web developer from <b>France</b>
+    &gt; I am a junior full stack web developer from <b>France</b>
     <br>
   </samp>
 </h1>
