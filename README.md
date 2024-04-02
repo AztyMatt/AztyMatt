@@ -29,6 +29,8 @@
 <br>
 ![Three](https://img.shields.io/badge/THREE-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
 ![Vue](https://img.shields.io/badge/VUE-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
 ![Symfony](https://img.shields.io/badge/SYMFONY-000000?style=for-the-badge&logo=symfony&logoColor=FFFFFF)
 <br>
 
@@ -42,7 +44,8 @@
 
 <b>Want To Learn :</b>
 <br>
-![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Nuxt](https://img.shields.io/badge/NUXT-000000?style=for-the-badge&logo=nuxt.js&logoColor=FFFFFF)
+![Next](https://img.shields.io/badge/NEXT-000000?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)
 <br>
 
