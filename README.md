@@ -35,7 +35,7 @@
 <b>Already Used :</b>
 <br>
 [![WORDPRESS](https://img.shields.io/badge/WORDPRESS-000000?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)](https://wordpress.org/support/) 
-[![C#](https://img.shields.io/badge/CSHARP-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
+[![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![SASS](https://img.shields.io/badge/SASS-000000?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com/documentation)  
 <br>
 
