@@ -44,7 +44,7 @@
 <br>
 [![VSCODE](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs) 
 [![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://docs.docker.com/) 
-[![GIT_(GITHUB)](https://img.shields.io/badge/GIT_(GITHUB)-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)  
+[![GIT_(GITHUB)](https://img.shields.io/badge/GIT_(GITHUB)-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)
 [![APACHE2](https://img.shields.io/badge/APACHE2-000000?style=for-the-badge&logo=apache&logoColor=FFFFFF)](https://httpd.apache.org/docs/2.4/)  
 
 <b>Practicing :</b>
