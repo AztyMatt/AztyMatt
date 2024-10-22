@@ -16,6 +16,12 @@
   </samp>
 </h1>
 
+<style>
+    a {
+        text-decoration: none; /* Supprime la décoration des liens */
+    }
+</style>
+
 ## CODE :
 <b>COMFORTABLE WITH :</b>
 <br>
