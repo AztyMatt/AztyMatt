@@ -35,7 +35,7 @@
 **LEARNING :**  
 [![VUE](https://img.shields.io/badge/VUE-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/v2/guide/) 
 [![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactjs.org/docs/getting-started.html) 
-[![REACT THREE FIBER](https://img.shields.io/badge/REACT-THREE-FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber) 
+[![REACT THREE FIBER](https://img.shields.io/badge/REACT_THREE_FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber) 
 [![NODE](https://img.shields.io/badge/NODE-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/docs/) 
 [![SYMFONY](https://img.shields.io/badge/SYMFONY-000000?style=for-the-badge&logo=symfony&logoColor=FFFFFF)](https://symfony.com/doc/current/index.html)  
 <br>
@@ -50,7 +50,7 @@
 **DEVELOPMENT :**  
 [![VSCODE](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs) 
 [![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://docs.docker.com/) 
-[![GIT - GITHUB](https://img.shields.io/badge/GIT-GITHUB-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)  
+[![GIT_(GITHUB)](https://img.shields.io/badge/GIT_(GITHUB)-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)  
 <br>
 
 **PRODUCTION :**  
