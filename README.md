@@ -58,8 +58,8 @@
 <br>
 [![FIGMA](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/resources/learn-design/) 
 [![ADOBE CREATIVE SUITE](https://img.shields.io/badge/ADOBE%20CREATIVE%20SUITE-000000?style=for-the-badge&logo=adobe&logoColor=FFFFFF)](https://helpx.adobe.com/creative-cloud/tutorials.html) 
-[![BLENDER](https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/support/tutorials/)  
+[![BLENDER](https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org)  
 
 <b>Other :</b>
 <br>
-[![UNITY](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com/learn)
+[![UNITY](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com)
