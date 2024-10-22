@@ -12,24 +12,27 @@
 <br>
 
 ## CODE :
-<b>Use To Code :</b>
+<b>Using :</b>
 <br>
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) 
 [![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
-[![PHP8](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.php.net/docs.php) 
-[![THREE](https://img.shields.io/badge/THREE-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://threejs.org/docs/) 
-[![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactnative.dev/docs/getting-started)  
+[![PHP8](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.php.net/docs.php)
+[![VUE](https://img.shields.io/badge/VUE-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/v2/guide/)
+[![SYMFONY](https://img.shields.io/badge/SYMFONY-000000?style=for-the-badge&logo=symfony&logoColor=FFFFFF)](https://symfony.com/doc/current/index.html)
+[![THREE](https://img.shields.io/badge/THREE-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://threejs.org/docs/)
+[![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactnative.dev/docs/getting-started)
 
-<b>Learning :</b>
+<b>Practicing :</b>
 <br>
-[![VUE](https://img.shields.io/badge/VUE-000000?style=for-the-badge&logo=vuedotjs&logoColor=FFFFFF)](https://vuejs.org/v2/guide/) 
-[![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactjs.org/docs/getting-started.html) 
-[![REACT THREE FIBER](https://img.shields.io/badge/REACT_THREE_FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber) 
-[![NODE](https://img.shields.io/badge/NODE-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/docs/) 
-[![SYMFONY](https://img.shields.io/badge/SYMFONY-000000?style=for-the-badge&logo=symfony&logoColor=FFFFFF)](https://symfony.com/doc/current/index.html)  
+[![REACT](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactjs.org/docs/getting-started.html)
+[![NODE](https://img.shields.io/badge/NODE-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/docs/)
+[![EXPRESS](https://img.shields.io/badge/EXPRESS-000000?style=for-the-badge&logo=express&logoColor=FFFFFF)](https://expressjs.com/)
 
-<b>Already used :</b>
+<b>Want to learn :</b>
+<br>
+[![REACT THREE FIBER](https://img.shields.io/badge/REACT_THREE_FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber)
+[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+
+<b>Already Used :</b>
 <br>
 [![WORDPRESS](https://img.shields.io/badge/WORDPRESS-000000?style=for-the-badge&logo=wordpress&logoColor=FFFFFF)](https://wordpress.org/support/) 
 [![C#](https://img.shields.io/badge/CSHARP-000000?style=for-the-badge&logo=csharp&logoColor=FFFFFF)](https://docs.microsoft.com/en-us/dotnet/csharp/) 
@@ -37,17 +40,14 @@
 <br>
 
 ## ENVIRONMENT :
-<b>Development :</b>
+<b>Using :</b>
 <br>
 [![VSCODE](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs) 
 [![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://docs.docker.com/) 
 [![GIT_(GITHUB)](https://img.shields.io/badge/GIT_(GITHUB)-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)  
-
-<b>Production :</b>
-<br>
 [![APACHE2](https://img.shields.io/badge/APACHE2-000000?style=for-the-badge&logo=apache&logoColor=FFFFFF)](https://httpd.apache.org/docs/2.4/)  
 
-<b>Learning :</b>
+<b>Practicing :</b>
 <br>
 [![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-web-services&logoColor=FFFFFF)](https://aws.amazon.com/documentation/) 
 [![KUBERNETES](https://img.shields.io/badge/KUBERNETES-000000?style=for-the-badge&logo=kubernetes&logoColor=FFFFFF)](https://kubernetes.io/docs/home/)  
