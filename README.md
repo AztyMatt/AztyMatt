@@ -1,9 +1,3 @@
-<a href="https://komarev.com/ghpvc/?username=AztyMatt">
-  <img align="left" src="https://komarev.com/ghpvc/?username=AztyMatt&style=for-the-badge&color=000000" alt="Profile visitor" />
-</a>
-<br>
-<br>
-
 <h1 align="center">⚠️ I'm currently looking for a work-study contract ⚠️</h1>
 <br>
 
@@ -15,6 +9,7 @@
     <br>
   </samp>
 </h1>
+<br>
 
 ## CODE :
 <b>Use To Code :</b>
@@ -25,7 +20,6 @@
 [![PHP8](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=FFFFFF)](https://www.php.net/docs.php) 
 [![THREE](https://img.shields.io/badge/THREE-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://threejs.org/docs/) 
 [![REACT NATIVE](https://img.shields.io/badge/REACT_NATIVE-000000?style=for-the-badge&logo=react&logoColor=FFFFFF)](https://reactnative.dev/docs/getting-started)  
-<br>
 
 <b>Learning :</b>
 <br>
@@ -34,7 +28,6 @@
 [![REACT THREE FIBER](https://img.shields.io/badge/REACT_THREE_FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber) 
 [![NODE](https://img.shields.io/badge/NODE-000000?style=for-the-badge&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/docs/) 
 [![SYMFONY](https://img.shields.io/badge/SYMFONY-000000?style=for-the-badge&logo=symfony&logoColor=FFFFFF)](https://symfony.com/doc/current/index.html)  
-<br>
 
 <b>Already used :</b>
 <br>
@@ -49,12 +42,10 @@
 [![VSCODE](https://img.shields.io/badge/VSCODE-000000?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)](https://code.visualstudio.com/docs) 
 [![DOCKER](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=FFFFFF)](https://docs.docker.com/) 
 [![GIT_(GITHUB)](https://img.shields.io/badge/GIT_(GITHUB)-000000?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://git-scm.com/doc)  
-<br>
 
 <b>Production :</b>
 <br>
 [![APACHE2](https://img.shields.io/badge/APACHE2-000000?style=for-the-badge&logo=apache&logoColor=FFFFFF)](https://httpd.apache.org/docs/2.4/)  
-<br>
 
 <b>Learning :</b>
 <br>
@@ -68,7 +59,6 @@
 [![FIGMA](https://img.shields.io/badge/FIGMA-000000?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com/resources/learn-design/) 
 [![ADOBE CREATIVE SUITE](https://img.shields.io/badge/ADOBE%20CREATIVE%20SUITE-000000?style=for-the-badge&logo=adobe&logoColor=FFFFFF)](https://helpx.adobe.com/creative-cloud/tutorials.html) 
 [![BLENDER](https://img.shields.io/badge/BLENDER-000000?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org/support/tutorials/)  
-<br>
 
 <b>Other :</b>
 <br>
