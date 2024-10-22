@@ -30,7 +30,7 @@
 <b>Want to learn :</b>
 <br>
 [![REACT THREE FIBER](https://img.shields.io/badge/REACT_THREE_FIBER-000000?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)](https://docs.pmnd.rs/react-three-fiber)
-[![PYTHON](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
+[![PYTHON](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org/)
 
 <b>Already Used :</b>
 <br>
